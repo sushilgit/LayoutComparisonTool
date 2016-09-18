@@ -1,0 +1,1 @@
+java -jar LayoutComparisonTool.jar "Layout1.layout" "Layout2.layout"
