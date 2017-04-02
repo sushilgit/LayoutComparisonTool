@@ -11,4 +11,5 @@
 5. Now double click on Bat file. It will generate layout comparison sheet. 
 
 What is not compared by this tool?
+
 All Related Lists
